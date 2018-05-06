@@ -1,0 +1,17 @@
+{
+    "name": "predrag/contact_page",
+    "authors": [
+        {
+            "name": "Predrag Vlajkovic",
+            "email": "predrag.vlajkovic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+    	"psr-4": {
+    		"Contact\\": "src/"
+    	},
+        "files" : 
+            ["src/config.php"]
+    }    
+}
