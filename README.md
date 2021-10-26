@@ -1,6 +1,6 @@
 # Contact page #
   
-This is a small peace of code then can be used for a contact page on every site.
+This is a small peace of code that can be used for a contact page on every site.
 
 Purpose is to provide clients with option of sending a message to webmaster 
 with possiblity to upload a file along with a message. File goes to upload folder, 
